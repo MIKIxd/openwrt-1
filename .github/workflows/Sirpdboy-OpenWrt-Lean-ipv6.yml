@@ -165,7 +165,7 @@ jobs:
         CONFIG_PACKAGE_luci-app-aria2=y
         CONFIG_PACKAGE_luci-app-cpulimit=y
         # CONFIG_PACKAGE_luci-app-fileassistant=y
-        # CONFIG_PACKAGE_luci-app-openvpn-server is not set
+        CONFIG_PACKAGE_luci-app-openvpn-server is not set
         CONFIG_PACKAGE_luci-app-serverchan=y
         # CONFIG_PACKAGE_luci-app-smartinfo=y
         CONFIG_LUCI_LANG_redsocks2=y
